@@ -1,2 +1,4 @@
-# Biomedical-Foundation-Models-Seminar
-Seminar/Review on Interesting and Important Biomedical Foundation Models
+## Biomedical-Foundation-Models-Seminar
+- This repo includes some important and interesting papers on biomedical foundation models as well as lectures on this topic.
+- Note: The contents are from the STAT992 Seminar: Foundation Models for Biomedical Data (Spring 2026)
+- Course Website: [STAT992](https://adaptinfer.org/fm-spring-2026/)
